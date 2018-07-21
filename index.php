@@ -1,5 +1,3 @@
 <?php
-
-echo "Hello Wold !!";
-
+echo " my happaI ";
 ?>
